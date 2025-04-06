@@ -29,7 +29,7 @@ This project uses the following crates:
 
 1. Clone the repository:
    ```bash
-   git clone https://learn.zone01kisumu.ke/git/seodhiambo/drawing.git
+   git clone https://github.com/Athooh/drawable.git
    cd drawing
    ```
 
