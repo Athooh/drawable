@@ -412,3 +412,8 @@ impl Drawable for Cube {
         self.color.clone() // Return color clone
     }
 }
+
+#[cfg(test)]
+mod tests {
+   include!("geometrical_shapes_tests.rs");
+}

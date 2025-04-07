@@ -4,5 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-raster = { git = "https://github.com/Raymond9734/raster" }
+raster = { git = "https://github.com/Athooh/raster.git" }
 rand = "0.8.5"
+tempfile = "3.3"
